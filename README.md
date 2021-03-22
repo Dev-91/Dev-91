@@ -1,11 +1,13 @@
 ## Hi 👋
 
 ### 🔥 Programming Languages
+- - -
 * C
 * Arduino
 * Python
 
 ### 🗒️ Programming Editor
+- - -
 * STM32CubeIDE
 * Visual Studio Code
 
