@@ -7,7 +7,6 @@
 
 ### 🗒️ Programming Editor
 * STM32CubeIDE
-* Arduino IDE
 * Visual Studio Code
 
 
