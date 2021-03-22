@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi 👋
+
+### 🔥 Programming Languages
+C
+Arduino
+Python
 
 <!--
 **Dev-91/Dev-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
