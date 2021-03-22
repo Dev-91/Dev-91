@@ -1,14 +1,14 @@
 ## Hi 👋
 
 ### 🔥 Programming Languages
-+C
-+Arduino
-+Python
+* C
+* Arduino
+* Python
 
 ### 🗒️ Programming Editor
-+STM32CubeIDE
-+Arduino IDE
-+Visual Studio Code
+* STM32CubeIDE
+* Arduino IDE
+* Visual Studio Code
 
 
 
