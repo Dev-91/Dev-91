@@ -1,17 +1,22 @@
 ## Hi !  I'm Dev91! 👋(OX)
-I like hand drip coffee ☕
 
-### 🔥 Programming Languages
+
+### 🔥 Technologies
 - - -
 * C
 * Arduino
 * Python
 * Java
 
-### 🗒️ Programming Editor
+### 🗒️ Learning
 - - -
-* STM32CubeIDE
-* Visual Studio Code
+* STM32 Chip
+* Django
+
+###  Bio
+- - -
+* I like hand drip coffee ☕
+
 
 작성 중 ~ :D
 
