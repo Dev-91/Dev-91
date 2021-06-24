@@ -4,7 +4,7 @@
 ### 🔥 Technologies
 - - -
 * C
-* ESP
+* ESP (Arduino)
 * Python
 * Java
 
