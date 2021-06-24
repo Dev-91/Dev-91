@@ -4,14 +4,14 @@
 ### 🔥 Technologies
 - - -
 * C
-* Arduino
+* ESP
 * Python
 * Java
 
 ### 🗒️ Learning
 - - -
 * STM32 Chip
-* Django
+* FastAPI
 
 ###  Bio
 - - -
