@@ -4,7 +4,7 @@
 ### 🔥 Technologies
 - - -
 * C
-* ESP (Arduino)
+* NodeMCU
 * Python
 * Java
 
