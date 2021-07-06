@@ -6,11 +6,10 @@
 * C
 * NodeMCU
 * Python
-* Java
 
 ### 🗒️ Learning
 - - -
-* STM32 Chip
+* STM32 Chipset
 * FastAPI
 
 ###  Bio
