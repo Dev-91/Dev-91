@@ -11,6 +11,7 @@
 - - -
 * STM32 Chipset
 * FastAPI
+* Vue.js
 
 ###  Bio
 - - -
