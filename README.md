@@ -15,10 +15,10 @@
 * FastAPI
 * Vue.js
 
-### :simple_smile: Bio
+### 😙 Bio
 - - -
 * hand drip coffee ☕
-* Bourbon whisky :cocktail:
+* Bourbon whisky 🍸
 
 
 
