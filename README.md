@@ -3,22 +3,24 @@
 
 ### 🔥 Technologies
 - - -
-* C
-* NodeMCU
+* ARM
+* ESP32
+* Circuit
 * Python
 
 ### 🗒️ Learning
 - - -
-* STM32 Chipset
+* STM32
+* ESP32
 * FastAPI
 * Vue.js
 
-###  Bio
+### :simple_smile: Bio
 - - -
-* I like hand drip coffee ☕
+* hand drip coffee ☕
+* Bourbon whisky :cocktail:
 
 
-작성 중 ~ :D
 
 <!--
 **Dev-91/Dev-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
