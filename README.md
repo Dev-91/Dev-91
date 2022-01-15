@@ -3,14 +3,14 @@
 
 ### 🔥 Technologies
 - - -
-* ARM
+* ARM MBED
 * ESP32
 * Circuit
 * Python
 
 ### 🗒️ Learning
 - - -
-* STM32
+* ARM MBED
 * ESP32
 * FastAPI
 * Vue.js
