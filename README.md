@@ -3,9 +3,10 @@
 
 ### 🔥 Technologies
 - - -
+* Arduino
 * STM32
-* MBED
 * ESP32
+* Raspberry Pi
 * FastAPI
 
 ### 😙 Bio
