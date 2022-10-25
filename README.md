@@ -15,9 +15,10 @@
 * Bourbon whisky 🍸
 
 
-### 🙂 Blog
+### 🙂 Link
 - - -
-* [Dev91 Blog](https://dev91.tistory.com/)
+* [Blog](https://dev91.tistory.com/)
+* [Youtube](https://www.youtube.com/channel/UCrM4ZUjmhJOcdCSfXAFPKlQ)
 
 
 <!--
