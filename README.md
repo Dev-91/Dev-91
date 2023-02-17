@@ -7,6 +7,7 @@
 * STM32
 * ESP32
 * Raspberry Pi
+* Odroid
 * FastAPI
 
 ### 😙 Bio
