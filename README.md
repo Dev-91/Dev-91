@@ -27,10 +27,14 @@
 
 
 <div align=left>
-  <h2>😙 Bio</h2>
+  <h2>😙 I Like</h2>
 </div>
-* hand drip coffee ☕
-* Bourbon whisky 🍸
+<div>
+  <ul>
+    <li>Coffee ☕</li>
+    <li>Whisky 🍸</li>
+  </ul>
+</div>
 
 
 <div align=left>
