@@ -40,10 +40,7 @@
 <div align=left>
   <h2>🙂 Link</h2>
 </div>
-<div align=left>
-  <img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://dev91.tistory.com"/>
-  <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@dev91_studio"/>
-  
-  <a href="https://dev91.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@dev91_studio"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+<div align=left>  
+  <a href="https://dev91.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@dev91_studio"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </div>
