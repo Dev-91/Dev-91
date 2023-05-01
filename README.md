@@ -41,6 +41,6 @@
   <h2>🙂 Link</h2>
 </div>
 <div align=left>  
-  <a href="https://dev91.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@dev91_studio"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://dev91.tistory.com" target="_blank><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@dev91_studio" target="_blank><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </div>
