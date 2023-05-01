@@ -5,8 +5,8 @@
   <h2>🔥 STACK</h2>
 </div>
 <div align=left>
-  <img src="https://img.shields.io/badge/stm32-03234B?style=for-the-badge&logo=stm32&logoColor=white">
-  <img src="https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=esp32&logoColor=white">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
   <img src="https://img.shields.io/badge/raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
   <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <br>
@@ -37,6 +37,10 @@
   <h2>🙂 Link</h2>
 </div>
 <div align=left>
-  [![Blog Badge](https://img.shields.io/badge/blog-000000?style=flat-square&logo=tistory&link=https://dev91.tistory.com/)](https://dev91.tistory.com/)
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@dev91_studio)](https://www.youtube.com/@dev91_studio)
+  <a herf="https://dev91.tistory.com">
+    <img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=tistory&logoColor=white">
+  </a>
+  <a herf="https://www.youtube.com/@dev91_studio">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 </div>
