@@ -4,7 +4,7 @@
 <div align=left>
   <h2>🔥 STACK</h2>
 </div>
-- - -
+
 <div align=left>
   <img src="https://img.shields.io/badge/stm32-03234B?style=for-the-badge&logo=stm32&logoColor=white">
   <img src="https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=esp32&logoColor=white">
@@ -30,7 +30,7 @@
 <div align=left>
   <h2>😙 Bio</h2>
 </div>
-- - -
+
 * hand drip coffee ☕
 * Bourbon whisky 🍸
 
@@ -38,23 +38,7 @@
 <div align=left>
   <h2>🙂 Link</h2>
 </div>
-- - -
 <div align=left>
   <a href="https://dev91.tistory.com/"<img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=tistory&logoColor=white">
   <a href="https://www.youtube.com/@dev91_studio"<img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </div>
-
-<!--
-**Dev-91/Dev-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
