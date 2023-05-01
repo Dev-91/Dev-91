@@ -1,11 +1,10 @@
 ## Hi!  I'm Dev91! 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDev-91&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🔥 Technologies
-- - -
 <div align=left>
-  <h1>🔥 STACK</h1>
+  <h2>🔥 STACK</h2>
 </div>
+- - -
 <div align=left>
   <img src="https://img.shields.io/badge/stm32-03234B?style=for-the-badge&logo=stm32&logoColor=white">
   <img src="https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=esp32&logoColor=white">
@@ -27,17 +26,23 @@
   <br>
 </div>
 
-### 😙 Bio
+
+<div align=left>
+  <h2>😙 Bio</h2>
+</div>
 - - -
 * hand drip coffee ☕
 * Bourbon whisky 🍸
 
 
-### 🙂 Link
+<div align=left>
+  <h2>🙂 Link</h2>
+</div>
 - - -
-* [Blog](https://dev91.tistory.com/)
-* [Youtube](https://www.youtube.com/channel/UCrM4ZUjmhJOcdCSfXAFPKlQ)
-
+<div align=left>
+  <a href="https://dev91.tistory.com/"<img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=tistory&logoColor=white">
+  <a href="https://www.youtube.com/@dev91_studio"<img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</div>
 
 <!--
 **Dev-91/Dev-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
